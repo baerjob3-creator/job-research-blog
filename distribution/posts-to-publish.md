@@ -1,29 +1,29 @@
 # READY TO POST — EXACT live URLs
-HOME: https://bars-bigger-returned-musicians.trycloudflare.com/
-#5 FEATURED: https://bars-bigger-returned-musicians.trycloudflare.com/posts/antimatter-truck-cern.html
-#4: https://bars-bigger-returned-musicians.trycloudflare.com/posts/quantum-sound-phonon-jump.html
-#3: https://bars-bigger-returned-musicians.trycloudflare.com/posts/ryugu-nucleobases.html
-#2: https://bars-bigger-returned-musicians.trycloudflare.com/posts/bci-speech-gesture.html
-#1: https://bars-bigger-returned-musicians.trycloudflare.com/posts/virtual-biotech-cancer-drug.html
+HOME: https://baerjob3-creator.github.io/job-research-blog/
+#5 FEATURED: https://baerjob3-creator.github.io/job-research-blog/posts/antimatter-truck-cern.html
+#4: https://baerjob3-creator.github.io/job-research-blog/posts/quantum-sound-phonon-jump.html
+#3: https://baerjob3-creator.github.io/job-research-blog/posts/ryugu-nucleobases.html
+#2: https://baerjob3-creator.github.io/job-research-blog/posts/bci-speech-gesture.html
+#1: https://baerjob3-creator.github.io/job-research-blog/posts/virtual-biotech-cancer-drug.html
 
 ## X — Tweet 1
 Scientists just drove 92 antiprotons across CERN in a truck — and every single one survived.
 
 BASE collaboration. Portable Penning trap. ~8 km. Zero losses. Nature, 2026.
 
-https://bars-bigger-returned-musicians.trycloudflare.com/posts/antimatter-truck-cern.html
+https://baerjob3-creator.github.io/job-research-blog/posts/antimatter-truck-cern.html
 
 ## X — Tweet 2
 New research blog is live — antimatter road trips, quantum sound jumps, asteroid DNA letters, and more.
 
-https://bars-bigger-returned-musicians.trycloudflare.com/
+https://baerjob3-creator.github.io/job-research-blog/
 
 ## X — Tweet 3
 A ringing bell seems to fade smoothly. Quantum mechanics says it’s a staircase.
 
 Stanford just watched the last step — one phonon → zero — in real time.
 
-https://bars-bigger-returned-musicians.trycloudflare.com/posts/quantum-sound-phonon-jump.html
+https://baerjob3-creator.github.io/job-research-blog/posts/quantum-sound-phonon-jump.html
 
 ## LinkedIn
 Launched a research blog covering breakthrough papers from Job’s research pipeline.
@@ -36,10 +36,10 @@ Also live:
 • UCSF: speech + gesture from one brain implant
 • Stanford Virtual Biotech / AI drug discovery
 
-Read: https://bars-bigger-returned-musicians.trycloudflare.com/
+Read: https://baerjob3-creator.github.io/job-research-blog/
 
 ## Reddit r/space — title
 Scientists transported 92 trapped antiprotons by truck across CERN with zero losses (Nature 2026)
 
 ## Reddit r/space — body
-The BASE collaboration loaded a cryogenic Penning trap (BASE-STEP) onto a truck, drove ~8 km around CERN’s Meyrin site, and returned every antiproton. Peer-reviewed in Nature (Sep 2026). Plain-language writeup: https://bars-bigger-returned-musicians.trycloudflare.com/posts/antimatter-truck-cern.html
+The BASE collaboration loaded a cryogenic Penning trap (BASE-STEP) onto a truck, drove ~8 km around CERN’s Meyrin site, and returned every antiproton. Peer-reviewed in Nature (Sep 2026). Plain-language writeup: https://baerjob3-creator.github.io/job-research-blog/posts/antimatter-truck-cern.html

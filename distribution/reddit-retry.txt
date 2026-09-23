@@ -1,4 +1,4 @@
-HOME=https://bars-bigger-returned-musicians.trycloudflare.com/
+HOME=https://baerjob3-creator.github.io/job-research-blog/
 AVATAR=/workspace/job-blog/brand/profile-avatar.png
 
 Reddit retry only:

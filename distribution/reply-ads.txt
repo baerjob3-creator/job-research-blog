@@ -1,5 +1,5 @@
-HOME=https://bars-bigger-returned-musicians.trycloudflare.com/
-FEATURED=https://bars-bigger-returned-musicians.trycloudflare.com/posts/ammonia-air-seawater-uv-lamp.html
+HOME=https://baerjob3-creator.github.io/job-research-blog/
+FEATURED=https://baerjob3-creator.github.io/job-research-blog/posts/ammonia-air-seawater-uv-lamp.html
 
 VOLUME TARGET (Job/CEO order): leave MORE comments under high-traction related posts.
 Aim for ~8–12 useful replies per platform (X, LinkedIn, Reddit) if signed in.
@@ -8,34 +8,34 @@ Rules: topical only; 1 reply per thread; never same author twice; no shouting; m
 Reply templates (pick matching thread; keep short):
 
 1) Ammonia / fertilizer / climate chemistry:
-Interesting parallel — Bordeaux chemists just made ammonia from air + seawater + iron salts + UV at ambient conditions (lab-scale, not Haber–Bosch replacement yet). Plain writeup: https://bars-bigger-returned-musicians.trycloudflare.com/posts/ammonia-air-seawater-uv-lamp.html
+Interesting parallel — Bordeaux chemists just made ammonia from air + seawater + iron salts + UV at ambient conditions (lab-scale, not Haber–Bosch replacement yet). Plain writeup: https://baerjob3-creator.github.io/job-research-blog/posts/ammonia-air-seawater-uv-lamp.html
 
 2) Solar / perovskite / clean energy:
-Related: zirconia nano-scaffolding for perovskite–silicon tandems hit 34% lab efficiency + certified 2.014 V. https://bars-bigger-returned-musicians.trycloudflare.com/posts/zirconia-solar-tandem-34-percent.html
+Related: zirconia nano-scaffolding for perovskite–silicon tandems hit 34% lab efficiency + certified 2.014 V. https://baerjob3-creator.github.io/job-research-blog/posts/zirconia-solar-tandem-34-percent.html
 
 3) Quantum / physics / superconductivity:
-Related Nature result: NbSe₂ in a dark THz cavity — vacuum fluctuations raised Tc 5.4% with no laser. https://bars-bigger-returned-musicians.trycloudflare.com/posts/vacuumtronics-superconductor-cavity.html
+Related Nature result: NbSe₂ in a dark THz cavity — vacuum fluctuations raised Tc 5.4% with no laser. https://baerjob3-creator.github.io/job-research-blog/posts/vacuumtronics-superconductor-cavity.html
 
 4) Health / biotech / HIV / diabetes / Parkinson’s:
-We keep a plain-language research blog on clinical leads (always with caveats). Latest + archive: https://bars-bigger-returned-musicians.trycloudflare.com/
+We keep a plain-language research blog on clinical leads (always with caveats). Latest + archive: https://baerjob3-creator.github.io/job-research-blog/
 
 5) Space / astronomy:
-Related posts on Ryugu nucleobases / JWST planet-mass object / Venus moon tides: https://bars-bigger-returned-musicians.trycloudflare.com/
+Related posts on Ryugu nucleobases / JWST planet-mass object / Venus moon tides: https://baerjob3-creator.github.io/job-research-blog/
 
 6) BCI / neuroscience / speech:
-Related: recent BCI speech + gesture decoding writeup (plain language): https://bars-bigger-returned-musicians.trycloudflare.com/posts/bci-speech-gesture.html
+Related: recent BCI speech + gesture decoding writeup (plain language): https://baerjob3-creator.github.io/job-research-blog/posts/bci-speech-gesture.html
 
 7) Particle physics / CERN / entanglement:
-Related: CERN entangled Z bosons / Higgs-related note: https://bars-bigger-returned-musicians.trycloudflare.com/posts/cern-entangled-z-bosons-higgs.html
+Related: CERN entangled Z bosons / Higgs-related note: https://baerjob3-creator.github.io/job-research-blog/posts/cern-entangled-z-bosons-higgs.html
 
 8) Antimatter / transport:
-Related: antimatter transport truck (CERN) writeup: https://bars-bigger-returned-musicians.trycloudflare.com/posts/antimatter-truck-cern.html
+Related: antimatter transport truck (CERN) writeup: https://baerjob3-creator.github.io/job-research-blog/posts/antimatter-truck-cern.html
 
 9) Artificial leaf / hydrogen:
-Related: artificial leaf + seawater hydrogen note: https://bars-bigger-returned-musicians.trycloudflare.com/posts/artificial-leaf-hydrogen-seawater.html
+Related: artificial leaf + seawater hydrogen note: https://baerjob3-creator.github.io/job-research-blog/posts/artificial-leaf-hydrogen-seawater.html
 
 10) DNA / computing / gene assembly:
-Related DNA-computer / prime-assembly notes: https://bars-bigger-returned-musicians.trycloudflare.com/
+Related DNA-computer / prime-assembly notes: https://baerjob3-creator.github.io/job-research-blog/
 
 Search tips:
 - X: search topics like "superconductor cavity", "perovskite tandem", "JWST", "BCI speech", "Haber Bosch ammonia", sort by Latest/Top, reply under high-engagement posts

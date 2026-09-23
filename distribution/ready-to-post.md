@@ -17,7 +17,7 @@
 
 Prefer Rockefeller / Science Photo Library HIV illustration or a simple schematic: dual bNAb infusion → ART pause → optional second dose @ 20 weeks → autologous Ab “third wheel” → intact reservoir decay. Caption: *“Two infused antibodies, one homemade stabilizer — and months (sometimes years) without daily ART under trial monitoring.”* Avoid implying universal cure, unsupervised treatment interruption, or that every participant matches the 160-week case. Say “trial-monitored ART pause / exploratory reservoir analysis / not a licensed cure.”
 
-URL: https://bars-bigger-returned-musicians.trycloudflare.com/posts/hiv-long-acting-antibodies-rio.html
+URL: https://baerjob3-creator.github.io/job-research-blog/posts/hiv-long-acting-antibodies-rio.html
 
 ## X — Tweet NOW (featured #13)
 # Social hooks — post-13
@@ -38,7 +38,7 @@ URL: https://bars-bigger-returned-musicians.trycloudflare.com/posts/hiv-long-act
 
 Prefer the Science Bulletin / EurekAlert schematic: tandem stack with ZrO₂ nanoparticles at the ITO/SAM buried interface; optional J–V cert curves (33.5% / 2.014 V) and 2,000 h MPPT retention graphic. Caption: *“Specks, not a blanket: zirconia nano-contacts that raise voltage without choking current.”* Avoid implying this cell is already the 35.5% world record, that modules ship at 34%, or that lead-halide perovskites are fully solved for outdoor warranties. Say “lab/certified cell metrics / interfacial strategy / not a commercial module rating.”
 
-URL: https://bars-bigger-returned-musicians.trycloudflare.com/posts/zirconia-solar-tandem-34-percent.html
+URL: https://baerjob3-creator.github.io/job-research-blog/posts/zirconia-solar-tandem-34-percent.html
 
 ## X — Tweet NOW (featured #12)
 # Social hooks — post-12
@@ -59,7 +59,7 @@ URL: https://bars-bigger-returned-musicians.trycloudflare.com/posts/zirconia-sol
 
 Prefer City of Hope credit art from the EurekAlert release, or a clean schematic: blood tube → three channels (circulating miRNA / exosomal miRNA / CA19-9) → AI composite score → triage to imaging. Optional: simple stage I–II vs late-detection contrast graphic. Caption: *“Three blood signals. One risk score. A chance to catch pancreatic cancer earlier.”* Avoid claiming FDA approval, population screening readiness, or “cures pancreatic cancer.” Say “investigational / 86.8% sensitivity in testing cohort / warrants further prospective studies.”
 
-URL: https://bars-bigger-returned-musicians.trycloudflare.com/posts/pancreatic-cancer-blood-test-panxeon.html
+URL: https://baerjob3-creator.github.io/job-research-blog/posts/pancreatic-cancer-blood-test-panxeon.html
 
 NOTE: investigational — not approved screening.
 
@@ -82,7 +82,7 @@ NOTE: investigational — not approved screening.
 
 Prefer NASA/JPL-Caltech Venus volcanism art (Peter Rubin) or a clean schematic: fast-spin Earth → moon outward; slow/post-impact Venus → synchronous radius overtakes orbit → Roche spiral-in. Optional: Kane/UCR graph of moon-destruction likelihood if credited. Caption: *“Same size class. Opposite satellite fate.”* Avoid claiming “Venus definitely had a moon” or “243-day spin alone proves the crash.” Say “if formed, tides can remove it” / “catastrophic stripping not required.”
 
-URL: https://bars-bigger-returned-musicians.trycloudflare.com/posts/venus-swallowed-moon-tides.html
+URL: https://baerjob3-creator.github.io/job-research-blog/posts/venus-swallowed-moon-tides.html
 
 ## X — Tweet NOW (featured #10)
 # Social hooks — post-10
@@ -103,7 +103,7 @@ URL: https://bars-bigger-returned-musicians.trycloudflare.com/posts/venus-swallo
 
 Prefer CERN/ATLAS event display of an H → ZZ* → 2e2μ (or 4ℓ) candidate with electrons/muons highlighted, or CERN’s artistic impression of entangled Z bosons (credit Daniel Dominguez/CERN where applicable). Alternate schematic: Higgs (spin 0) → two Z bosons (spin 1) → four leptons, with a dashed “entangled” link between the Zs. Caption: *“Born together. Measured apart. Still not independent.”* Avoid claiming a loophole-free Bell test, teleportation, or “first entanglement ever.” Say “strong evidence / 4.7σ” not “proven beyond all doubt.”
 
-URL: https://bars-bigger-returned-musicians.trycloudflare.com/posts/cern-entangled-z-bosons-higgs.html
+URL: https://baerjob3-creator.github.io/job-research-blog/posts/cern-entangled-z-bosons-higgs.html
 
 ## X — Tweet NOW (featured #9)
 # Social hooks — post-09
@@ -124,7 +124,7 @@ URL: https://bars-bigger-returned-musicians.trycloudflare.com/posts/cern-entangl
 
 Prefer NASA/ESA/CSA IC 348 NIRCam panorama (credit NASA, ESA, CSA, Kevin Luhman / PSU, Catarina Alves de Oliveira / ESA, Mahdi Zamani / ESA/Webb). Alternate: simple schematic — molecular cloud collapse → free-floating ~2 M_Jup object + IR-excess disk → fork labeled “planet by mass / brown dwarf by birth.” Caption: *“Planet weight. Star birth. Maybe a system of its own.”* Avoid claiming Webb resolved baby planets in the disk, or that masses are dynamical (they are evolutionary-model estimates).
 
-URL: https://bars-bigger-returned-musicians.trycloudflare.com/posts/jwst-planet-mass-ic348.html
+URL: https://baerjob3-creator.github.io/job-research-blog/posts/jwst-planet-mass-ic348.html
 
 ## X — Tweet NOW (featured #8)
 # Social hooks — post-08
@@ -145,7 +145,7 @@ URL: https://bars-bigger-returned-musicians.trycloudflare.com/posts/jwst-planet-
 
 Prefer a NASA/ESA illustration of a failed supernova / stellar collapse to a black hole (credit as published; Space.com used NASA/ESA/P. Jeffries STScI). Alternate: simple schematic — collapsing core → neutrino flood → fork to “shock revival → neutron star” vs “failed heating → black hole,” with a small label for electron/muon/tau flavor swap. Caption: *“99% of the energy. Three flavors. One fate.”* Avoid implying the study “proved” every intermediate-mass star becomes a black hole, or that 3-D supernova theory is settled; this is a schematic flavor-conversion survey in 1-D+ simulations.
 
-URL: https://bars-bigger-returned-musicians.trycloudflare.com/posts/neutrino-supernova-black-holes.html
+URL: https://baerjob3-creator.github.io/job-research-blog/posts/neutrino-supernova-black-holes.html
 
 
 ## X — Tweet NOW (featured #7)
@@ -167,39 +167,39 @@ URL: https://bars-bigger-returned-musicians.trycloudflare.com/posts/neutrino-sup
 
 Prefer NTU Singapore photos of the artificial-leaf device or the Wong lab team (credit NTU Singapore). Alternate: simple schematic — perovskite photocathode + Fe–Co–Cr spinel anode, arrows for sunlight in / H₂ out / hydrazine → N₂. Caption: *“Sunlight in. Toxic hydrazine down. Hydrogen out — from seawater.”* Avoid implying municipal-scale deployment, desalination replacement, or lead-free consumer hardware; this is a lab dual-duty photoelectrochemical prototype with a patented approach still scaling.
 
-URL: https://bars-bigger-returned-musicians.trycloudflare.com/posts/artificial-leaf-hydrogen-seawater.html
+URL: https://baerjob3-creator.github.io/job-research-blog/posts/artificial-leaf-hydrogen-seawater.html
 
 ## X — Tweet NOW (featured #6)
 Scientists built a DNA computer that does math in a drop of water — heat + salt, no continuous power. 100-bit addition in ~30 seconds. Maynooth / Nature 2026.
 
-https://bars-bigger-returned-musicians.trycloudflare.com/posts/dna-computer-math.html
+https://baerjob3-creator.github.io/job-research-blog/posts/dna-computer-math.html
 
 # READY TO POST — EXACT live URLs
-HOME: https://bars-bigger-returned-musicians.trycloudflare.com/
-#5 FEATURED: https://bars-bigger-returned-musicians.trycloudflare.com/posts/antimatter-truck-cern.html
-#4: https://bars-bigger-returned-musicians.trycloudflare.com/posts/quantum-sound-phonon-jump.html
-#3: https://bars-bigger-returned-musicians.trycloudflare.com/posts/ryugu-nucleobases.html
-#2: https://bars-bigger-returned-musicians.trycloudflare.com/posts/bci-speech-gesture.html
-#1: https://bars-bigger-returned-musicians.trycloudflare.com/posts/virtual-biotech-cancer-drug.html
+HOME: https://baerjob3-creator.github.io/job-research-blog/
+#5 FEATURED: https://baerjob3-creator.github.io/job-research-blog/posts/antimatter-truck-cern.html
+#4: https://baerjob3-creator.github.io/job-research-blog/posts/quantum-sound-phonon-jump.html
+#3: https://baerjob3-creator.github.io/job-research-blog/posts/ryugu-nucleobases.html
+#2: https://baerjob3-creator.github.io/job-research-blog/posts/bci-speech-gesture.html
+#1: https://baerjob3-creator.github.io/job-research-blog/posts/virtual-biotech-cancer-drug.html
 
 ## X — Tweet 1
 Scientists just drove 92 antiprotons across CERN in a truck — and every single one survived.
 
 BASE collaboration. Portable Penning trap. ~8 km. Zero losses. Nature, 2026.
 
-https://bars-bigger-returned-musicians.trycloudflare.com/posts/antimatter-truck-cern.html
+https://baerjob3-creator.github.io/job-research-blog/posts/antimatter-truck-cern.html
 
 ## X — Tweet 2
 New research blog is live — antimatter road trips, quantum sound jumps, asteroid DNA letters, and more.
 
-https://bars-bigger-returned-musicians.trycloudflare.com/
+https://baerjob3-creator.github.io/job-research-blog/
 
 ## X — Tweet 3
 A ringing bell seems to fade smoothly. Quantum mechanics says it’s a staircase.
 
 Stanford just watched the last step — one phonon → zero — in real time.
 
-https://bars-bigger-returned-musicians.trycloudflare.com/posts/quantum-sound-phonon-jump.html
+https://baerjob3-creator.github.io/job-research-blog/posts/quantum-sound-phonon-jump.html
 
 ## LinkedIn
 Launched a research blog covering breakthrough papers from Job’s research pipeline.
@@ -212,13 +212,13 @@ Also live:
 • UCSF: speech + gesture from one brain implant
 • Stanford Virtual Biotech / AI drug discovery
 
-Read: https://bars-bigger-returned-musicians.trycloudflare.com/
+Read: https://baerjob3-creator.github.io/job-research-blog/
 
 ## Reddit r/space — title
 Scientists transported 92 trapped antiprotons by truck across CERN with zero losses (Nature 2026)
 
 ## Reddit r/space — body
-The BASE collaboration loaded a cryogenic Penning trap (BASE-STEP) onto a truck, drove ~8 km around CERN’s Meyrin site, and returned every antiproton. Peer-reviewed in Nature (Sep 2026). Plain-language writeup: https://bars-bigger-returned-musicians.trycloudflare.com/posts/antimatter-truck-cern.html
+The BASE collaboration loaded a cryogenic Penning trap (BASE-STEP) onto a truck, drove ~8 km around CERN’s Meyrin site, and returned every antiproton. Peer-reviewed in Nature (Sep 2026). Plain-language writeup: https://baerjob3-creator.github.io/job-research-blog/posts/antimatter-truck-cern.html
 
 
 ## Post #6 DNA computer hooks
@@ -241,5 +241,5 @@ The BASE collaboration loaded a cryogenic Penning trap (BASE-STEP) onto a truck,
 
 Prefer Maynooth University credit photo of Janet Adio, Damien Woods, and Abeer Eshra (Hamilton Institute team shot used on Tech Xplore), or a simple schematic: long DNA scaffold + competing short strands → fluorescent 0/1 readout. Caption: *“The answer is the structure the DNA prefers.”* Avoid neon “DNA chip” sci-fi art or implying a wet laptop / AI replacement; keep it test-tube + scaffold.
 
-URL: https://bars-bigger-returned-musicians.trycloudflare.com/posts/dna-computer-math.html
+URL: https://baerjob3-creator.github.io/job-research-blog/posts/dna-computer-math.html
 
