@@ -1,0 +1,19 @@
+CEO Bot productivity check — 2026-09-22 ~9:51am MT
+
+PUBLIC ACCESS
+- Old tunnel DOWN (DNS fail): https://conversations-nations-gary-jul.trycloudflare.com/
+- Local http.server :8080 was still healthy (~22 posts).
+- CEO Bot restarted cloudflared quick tunnel.
+- NEW live URL: https://bars-bigger-returned-musicians.trycloudflare.com/
+- Keep this tunnel process alive; update all ad copy to the new URL.
+
+STILL BLOCKED ON JOB
+1) In Website Developer chat: confirm create-repo for GitHub Pages under @baerjob3-creator (expected https://baerjob3-creator.github.io/job-research-blog/).
+2) Cloudflare Web Analytics JS-snippet beacon token for the public hostname (paste into WD chat / cf-web-analytics-token.txt).
+
+RESEARCH
+- Correctly idle — Job paused new posts Sep 20.
+
+WD NEXT
+- Resume ad batches on X/LinkedIn (Reddit previously rate-limited) using the NEW URL.
+- Do not wait on Research for content; site has enough posts.

@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Boston Children’s / Dana-Farber Nature report on prime assembly — CRISPR-programmed dual flaps that install gene-sized DNA without breaks or cell division.">
+  <title>They Assembled Gene-Sized DNA Inside Living Human Cells — No Breaks Required, No Cell Division Needed · Job Baer</title>
+  <link rel="stylesheet" href="../css/style.css">
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to content</a>
+  <header class="site-header">
+    <div class="header-inner">
+      <a class="site-title" href="../index.html">Job Baer</a>
+      <nav class="site-nav" aria-label="Primary">
+        <a href="../index.html">Home</a> <a href="../blog.html" aria-current="page">Blog</a> <a href="../about.html">About</a>
+      </nav>
+    </div>
+  </header>
+  <main id="main" class="site-main">
+
+    <article>
+      <header class="article-header">
+        <h1>They Assembled Gene-Sized DNA Inside Living Human Cells — No Breaks Required, No Cell Division Needed</h1>
+        <p class="post-meta"><time datetime="2026-09-20">September 20, 2026</time>
+        
+        </p>
+      </header>
+      <div class="prose">
+<p><strong>Subtitle:</strong> A Boston Children’s / Dana-Farber <em>Nature</em> report introduces prime assembly — CRISPR-programmed dual flaps that install DNA up to <strong>12.1 kb</strong>, work in <strong>G1-arrested</strong> cells and primary <strong>T cells / HSPCs</strong>, and can drive <strong>megabase-scale</strong> rearrangements without relying on HDR.</p>
+<hr>
+<p>Gene therapy’s hardest unfinished sentence is still the same one: <em>put a large, precise DNA change exactly where you want it — in the cells that matter — without making a mess.</em> Base editors flip single letters. Prime editors write short patches. Homology-directed repair (HDR) can install bigger payloads, but it mostly works when cells are dividing and usually leans on nuclease-cut DNA. For resting immune cells, blood stem cells, and anything post-mitotic, that combination has been a wall.</p>
+<p>On <strong>September 16, 2026</strong>, <em>Nature</em> published an open-access answer with a deceptively calm name. <strong>Sébastien Levesque</strong>, <strong>Nozomu Kawashima</strong>, <strong>Gue-Ho Hwang</strong>, and colleagues — senior authors including <strong>Daniel E. Bauer</strong> and <strong>Suneet Agarwal</strong> at Boston Children’s Hospital / Dana-Farber / Harvard / Broad — report <strong>prime assembly (PA)</strong>: CRISPR-targeted dual 3′ flap synthesis that lets human cells assemble and integrate single- or double-stranded DNA donors at a programmed locus (DOI <strong>10.1038/s41586-026-11024-2</strong>). The abstract’s claim is the shareable one: RNA-programmable, site-specific integration of medium-to-large DNA <strong>without</strong> requiring double-stranded DNA donors, <strong>nuclease-driven double-strand breaks</strong>, or <strong>cell-cycle progression</strong>.</p>
+<p>This is not another “CRISPR fixed a disease in a patient” clinical vignette. It is a <strong>platform methods</strong> paper — and that is why it matters for Sunday readers who already watched islet transplants and Parkinson’s grafts move through the clinic. The bottleneck PA attacks is the one those therapies still hit when the cargo gets large.</p>
+<h2>What prime assembly actually does</h2>
+<p>Think of classical <strong>Gibson assembly</strong> — the lab trick that stitches overlapping DNA fragments into one molecule in a tube — relocated <em>inside</em> a human cell and aimed at a genomic address. Twin prime-editing guide RNAs (pegRNAs) program two 3′ flaps at the target. Donor DNA is designed so its ends overlap those flaps. After annealing, endogenous repair finishes the job: excision of the unedited duplex, fill-in synthesis, ligation. The cell becomes the cloning bench.</p>
+<p>That architecture unlocks three headline capabilities in one paper:</p>
+<ul>
+<li><strong>Kilobase payloads.</strong> Gene-sized donors from <strong>3.1 kb to 12.1 kb</strong> (puromycin resistance + PGK1–eGFP) went into the safe-harbor <strong>AAVS1</strong> locus. Efficiency fell with size, as expected — about <strong>28.1%</strong> eGFP⁺ cells at <strong>9.1 kb</strong>, <strong>7.4%</strong> at <strong>12.1 kb</strong> — but the large cassettes were on-target and enrichable.</li>
+<li><strong>Multi-fragment assembly.</strong> Under selective pressure at <em>ATP1A1</em>, the team assembled <strong>up to four</strong> overlapping ssDNA pieces into one integrated product — Gibson logic, cellular address.</li>
+<li><strong>Cell-cycle independence.</strong> In K562 cells arrested in <strong>G1</strong> with the CDK4/6 inhibitor <strong>palbociclib</strong>, HDR at AAVS1 collapsed from ~<strong>17%</strong> to undetectable. Prime assembly’s eGFP integration held with little change — the paper’s direct answer to HDR’s S/G2 dependency.</li>
+</ul>
+<p>Purity can be tuned. Inhibiting DNA-PK with <strong>AZD7648</strong>, alone or with a Polθ inhibitor (<strong>PolQi1</strong>), raised the precise-to-imprecise PA ratio <strong>4.1-fold</strong> and <strong>8.5-fold</strong>. Genome-wide <strong>Donor-seq</strong> profiles supported high specificity relative to nuclease knock-in strategies.</p>
+<h2>Primary cells — where the therapy argument lives</h2>
+<p>Bench cell lines are rehearsal. The paper’s therapeutic stakes sit in <strong>primary human CD3⁺ T cells</strong> (four healthy donors in cell-cycle assays; three in editing runs) and <strong>CD34⁺ hematopoietic stem and progenitor cells</strong> (three donors).</p>
+<p>In HSPCs, using PE7 mRNA plus pegRNAs and ssDNA donors, they measured average PA alleles of <strong>1.5%</strong> at <strong>AAVS1</strong> and <strong>1.3%</strong> at <strong>IL2RG</strong> — modest percentages, high significance: <em>in cellulo</em> assembly works in the same cell class that already produced the approved CRISPR medicine exa-cel. In T cells, PA targeted the <strong>TRAC</strong> locus — the industry’s favorite docking site for CAR-T engineering — including under resting (non-activated) culture conditions that keep cells out of the HDR-friendly cycle. Benchmarking in model lines showed PA beating or matching HDR, HITI, MMTI/PITCh, and PASSIGE at several loci; at <strong>TRAC</strong> in Jurkat cells with NHEJ/MMEJ inhibitors, PA reached ~<strong>17.4%</strong> eGFP⁺ versus low single-digit basal rates.</p>
+<p>None of those numbers is “cured.” All of them are “the wall moved.”</p>
+<h2>Megabases when you need rearrangements</h2>
+<p>Standard PA is framed as <strong>nickase-class</strong> editing — no obligatory nuclease DSB for integration. For chromosome-scale surgery the team also tested <strong>nuclease prime assembly</strong>. That mode installed a <strong>93 Mb</strong> chromosome-7 arm deletion and a <strong>27 Mb</strong> chromosome-19 arm deletion, a <strong>1 Mb</strong> inversion on chromosome 7 (<strong>40.4%</strong> of clones with the intended inversion vs <strong>12.5%</strong> for SpCas9 NHEJ, which also left junction deletions in every recovered clone), and even an <strong>X–19</strong> translocation. The paper is honest about the trade: DSBs help megabase rearrangements happen, at a purity cost. Keep the two modes mentally separate in any share — kilobase installs without breaks; megabase rearrangements with a nuclease-PA variant.</p>
+<h2>What this is not</h2>
+<p>It is <strong>not</strong> an approved therapy. There is <strong>no in vivo delivery</strong> in this report — electroporation into cultured and primary cells, ex vivo. Efficiencies in HSPCs are still low for many clinical bar heights; large donors cost yield. Nuclease-PA rearrangements reintroduce DSB risk by design. Off-target Donor-seq looked favorable, not empty: TRAC and AAVS1 pegRNA sets showed measurable guide-dependent events that any translation path must map and mitigate. Related 2026 work (including an April <em>Nature</em> linear-donor PA paper reaching <strong>~11 kb</strong>, and other donor-annealing strategies) means the field is converging — credit the wave, don’t invent a monopoly.</p>
+<h2>Why Sunday readers should care</h2>
+<p>Every CAR, every multi-exon correction, every gene-sized cassette that today’s editors cannot politely install runs into the same physics: big DNA, quiescent cells, DSB anxiety. Levesque, Kawashima, Hwang, Bauer, Agarwal, and colleagues just published a coherent workaround — <strong>flaps instead of homology-search in S phase</strong>, <strong>assembly instead of blunt knock-in</strong>, <strong>primary blood cells instead of only immortalized lines</strong>. An AllSci summary on <strong>September 18, 2026</strong> framed the same stakes: large payloads without the genotoxicity tax of routine nuclease cuts.</p>
+<p>The next experiments write themselves: higher HSPC/T-cell efficiencies, cleaner long-read maps of multi-fragment products, in vivo delivery tests, and head-to-head trials against PASSIGE and twinPE knock-ins in actual therapeutic constructs. None of that is promised by a September methods paper. All of it becomes easier to fund once the field can say, without hedging the sentence to death: <strong>human cells can assemble gene-sized DNA on target without waiting to divide.</strong></p>
+<p>Prime editing taught cells to write short letters. Prime assembly teaches them to paste chapters — and, when needed, to rearrange whole shelves — at an address the RNA specifies.</p>
+<hr>
+<h2>Sources</h2>
+<ol>
+<li>Levesque, S., Kawashima, N., Hwang, G.-H., Zeng, J., Toskov, V., Barry, T., Mannherz, W., Homfeldt, L., Becerra, B., Schoonenberg, V. A. C., Pinello, L., Agarwal, S. &amp; Bauer, D. E. (2026). Targeted genomic integration and rearrangement using prime assembly. <em>Nature</em>. Published 16 September 2026 (open access). https://doi.org/10.1038/s41586-026-11024-2</li>
+<li>Liu, B., Petti, A., Zhou, X., et al. (2026). Prime assembly with linear DNA donors enables large genomic insertions. <em>Nature</em>. Published 29 April 2026. https://doi.org/10.1038/s41586-026-10460-4</li>
+<li>AllSci Editorial / McTiernan, R. (2026, September 18). Boston Children’s-led team develops prime assembly for large DNA insertions. AllSci News. https://allsci.com/news/research/prime-assembly-boston-childrens-hospital-and/</li>
+<li>Supplementary information for Levesque et al. (2026), <em>Nature</em> DOI 10.1038/s41586-026-11024-2 (megabase deletions/inversion/translocation details; multi-fragment assembly).</li>
+</ol>
+      </div>
+      <p class="back-link"><a href="../blog.html">← All posts</a></p>
+    </article>
+
+  </main>
+  <footer class="site-footer">
+    <p>Job Baer’s research blog · Posts from a Research assistant · Static site</p>
+  </footer>
+</body>
+</html>

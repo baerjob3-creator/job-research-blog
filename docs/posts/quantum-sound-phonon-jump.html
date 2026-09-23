@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Stanford physicists recorded the first real-time quantum jump of a phonon in a mechanical resonator — a chip-scale tuning fork that lost its last packet of vibration while a superconducting qubit kept score.">
+  <title>Scientists Just Watched a Quantum of Sound Jump From One to Zero · Job Baer</title>
+  <link rel="stylesheet" href="../css/style.css">
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to content</a>
+  <header class="site-header">
+    <div class="header-inner">
+      <a class="site-title" href="../index.html">Job Baer</a>
+      <nav class="site-nav" aria-label="Primary">
+        <a href="../index.html">Home</a> <a href="../blog.html" aria-current="page">Blog</a> <a href="../about.html">About</a>
+      </nav>
+    </div>
+  </header>
+  <main id="main" class="site-main">
+
+    <article>
+      <header class="article-header">
+        <h1>Scientists Just Watched a Quantum of Sound Jump From One to Zero</h1>
+        <p class="post-meta"><time datetime="2026-09-20">September 20, 2026</time>
+        
+        </p>
+      </header>
+      <div class="prose">
+<p><strong>Subtitle:</strong> Stanford physicists recorded the first real-time quantum jump of a phonon in a mechanical resonator — a chip-scale “tuning fork” that lost its last packet of vibration while a superconducting qubit kept score.</p>
+<hr>
+<p>Strike a bell and the ringing seems to fade smoothly. Quieter, then quieter still, then gone. Quantum mechanics has insisted for more than a century that this smooth fade is an illusion of scale: vibrational energy comes in discrete packets called <strong>phonons</strong>, and a resonator must lose them one at a time.</p>
+<p>On September 17, 2026, a Stanford team led by applied physicist <strong>Amir Safavi-Naeini</strong> reported in <em>Science</em> that they had finally caught one of those steps live. In a microscopic mechanical resonator paired with a superconducting qubit, repeated measurements showed the device lingering in its one-phonon state — then abruptly switching to the ground state. Co-first authors <strong>Takuma Makihara</strong> and <strong>Erik Szakiel</strong> helped build the device that made the jump visible.</p>
+<p>That is the first real-time observation of individual quantum jumps of sound in a mechanical resonator. Photons did it in 2007. Trapped ions did it in 1986. Sound had been the missing member of the club.</p>
+<h2>A phonon is not a tiny bead of noise</h2>
+<p>A phonon is the quantum description of a coordinated vibration shared by many atoms in a solid — the sound analogue of a photon. Neighboring energy levels of a mechanical mode are separated by <em>hf</em>, where <em>f</em> is the mode frequency and <em>h</em> is Planck’s constant. The allowed energies form a ladder, not a ramp.</p>
+<p>“One to zero” does not mean every atom freezes. Quantum mechanics still assigns the ground state an irreducible zero-point motion. The observed jump removed the last <em>countable</em> excitation above that floor.</p>
+<p>Macroscopic bells hide the staircase because they hold enormous numbers of phonons. Losing them one by one produces steps too small and too fast to notice, the way individual pixels vanish into a continuous-looking photograph from across the room. Ordinary microphones and position sensors also fail the quantum test: average displacement can decline smoothly even when energy occupies discrete levels. Measuring position alone does not label each rung of the ladder.</p>
+<h2>The trick: ask the same question hundreds of times</h2>
+<p>The Stanford device is a microscopic <strong>lithium-niobate</strong> mechanical resonator fabricated with chipmaking techniques, then integrated with a superconducting circuit using an aligned transfer-print process. The coupling is dispersive: each added phonon shifted the qubit’s frequency by about <strong>328 kilohertz</strong>. Microwave pulses turned that shift into a repeated parity check — essentially asking, over and over, whether the mechanical state contained an odd or even number of phonons.</p>
+<p>Timing made the experiment possible. Left alone, the mechanical excitation lived about <strong>2.1 milliseconds</strong>. Scaled to an ordinary tuning fork, Stanford notes, that would be hours of ringing. That window was long enough for hundreds of fast quantum measurements during a single ringdown.</p>
+<p>Readouts were noisy, so the team heralded the state they wanted to follow. Runs with six consecutive checks indicating one phonon yielded an <strong>85 percent</strong> single-phonon preparation fidelity. The same sequence then continued for <strong>294</strong> checks per trajectory. A public Zenodo archive holds <strong>8,447</strong> selected trajectories plus the Bayesian forward-backward analysis used to estimate the hidden state — unusually inspectable for a result this subtle.</p>
+<p>In typical traces, outcomes stayed mostly consistent with the excited state, then abruptly flipped toward the ground state. Waiting times across the ensemble followed the exponential, memoryless pattern expected for spontaneous quantum decay.</p>
+<h2>What “real time” and “direct” actually mean</h2>
+<p>No camera filmed a sound particle vanishing, and nobody heard an audible note snap off. The team inferred the resonator’s energy from a rapid qubit measurement record, resolving whether one vibrational quantum remained or the device had reached ground.</p>
+<p>The observation is <strong>direct</strong> in the experimental sense: individual transition histories, not only averages over identically prepared systems. It is <strong>real time</strong> because the sequence located the transition during a single ringdown, with checks much faster than the mechanical lifetime. It is still an inference from a detector — and only approximately nondestructive. Under continuous parity checks, the observed one-phonon lifetime shrank to about <strong>649 microseconds</strong>. Each question carried a small chance of disturbing the excitation being monitored.</p>
+<p>That back-action does not erase the result. It defines it more precisely: the detector extracted enough information to distinguish discrete one- and zero-phonon intervals before its own disturbance and natural loss ended the show.</p>
+<h2>What this is — and what it is not</h2>
+<p>It is <strong>not</strong> a working quantum computer, a finished error-correction protocol, or proof that your smartphone will suddenly become a quantum device. It does not photograph phonons. It does not claim the first creation or detection of single phonons — those milestones already existed in quantum acoustics — only the first real-time jump trajectories of mechanical sound.</p>
+<p>It <strong>is</strong> peer-reviewed confirmation that a vibration distributed across a solid object can be prepared with one quantum of energy, questioned hundreds of times, and followed to the random instant when that quantum is gone. The averaged ringdown remains smooth. An individual history ends with a step.</p>
+<p>Safavi-Naeini framed the enabling claim plainly in Stanford’s release: vibrating objects can exhibit quantum behavior — “the prerequisite for many of the operations needed by quantum computing and sensing.” Makihara emphasized the fabrication fight: making an extremely long-lived vibrating object and integrating it with a qubit “without ruining either subsystem.” Szakiel pointed at the longer arc: fine-tuned control of sound could eventually improve devices that already treat vibration as fundamental technology.</p>
+<h2>Why catching the jump matters</h2>
+<p>In many quantum architectures, a jump is an <strong>error</strong>. You cannot correct an error you cannot see. Repeated nondemolition-style checks are a foundation for any scheme that hopes to protect information encoded in mechanical states. This experiment did not demonstrate correction — 85 percent heralding fidelity and measurement-shortened lifetimes leave hard engineering ahead — but it shows the diagnostic step is possible.</p>
+<p>The same platform is also a sensor candidate. Minute forces, accelerations, and added masses shift mechanical motion. Safavi-Naeini’s group, collaborating with Michael Roukes’s team at Caltech, is already exploring related devices to detect and identify proteins inside cells. Chip-scale packing raises the prospect of denser acoustic quantum circuits.</p>
+<p>None of that is shipping tomorrow. The immediate result is simpler and stranger:</p>
+<p>Sound can jump. We finally watched it do so.</p>
+<hr>
+<h2>Sources</h2>
+<ol>
+<li>Makihara, T., Szakiel, E., et al.; Safavi-Naeini, A. H. (corresponding). (2026). Quantum jumps of sound. <em>Science</em>. https://doi.org/10.1126/science.aeh7535</li>
+<li>Zaske, S. / Stanford School of Humanities and Sciences. (2026, September 17). Researchers observe first real-time quantum jump in sound. https://humsci.stanford.edu/feature/researchers-observe-first-real-time-quantum-jump-sound</li>
+<li>EurekAlert! / Stanford University. (2026, September 17). Researchers observe first real-time quantum jump in sound. https://www.eurekalert.org/news-releases/1144153</li>
+<li>ScienceBlog Lab Report. (2026, September 20). Real-time observation of a mechanical resonator losing its final phonon. https://scienceblog.com/t-quantum-jumps-sound-final-phonon-real-time/</li>
+<li>Data and Code for “Quantum Jumps of Sound.” Zenodo. https://zenodo.org/records/20944616</li>
+</ol>
+      </div>
+      <p class="back-link"><a href="../blog.html">← All posts</a></p>
+    </article>
+
+  </main>
+  <footer class="site-footer">
+    <p>Job Baer’s research blog · Posts from a Research assistant · Static site</p>
+  </footer>
+</body>
+</html>

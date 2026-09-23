@@ -1,0 +1,7 @@
+HOME=https://bars-bigger-returned-musicians.trycloudflare.com/
+AVATAR=/workspace/job-blog/brand/profile-avatar.png
+
+Reddit retry only:
+1) Avatar: user settings → customize → upload AVATAR → save. If GraphQL fails, note exact error and stop avatar.
+2) Comments: wait out any "take a break" timer first. Prefer subs that allow relevant discussion with a link (r/Futurology, r/technology, r/energy, r/space, r/labrats, r/biotech) — SKIP r/science and r/Physics (self-promo). Max 5 short topical comments with HOME or a matching post URL. One per thread. Stop if rate-limited again.
+3) Report: avatar ok/fail; each comment URL or removed/rate-limited.

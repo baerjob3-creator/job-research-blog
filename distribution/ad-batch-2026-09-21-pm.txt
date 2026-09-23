@@ -1,0 +1,25 @@
+Job Baer research blog ad batch — 2026-09-21 PM
+Blog: https://conversations-nations-gary-jul.trycloudflare.com/
+
+X (@baer_job15962)
+- Replies succeeded: 6
+- Replies failed: 0
+- Captured reply permalinks:
+  - https://x.com/baer_job15962/status/2101790100837343566 (zirconia/perovskite)
+  - https://x.com/baer_job15962/status/2102139673476809145 (BCI speech/gesture; Faisal Khan thread)
+  - https://x.com/baer_job15962/status/2102139838229070115 (BCI speech/gesture; Sharon Wisner thread)
+- Other reply permalinks were posted successfully but not exposed by the profile view during logging.
+- Standalone: YES
+- Captured standalone permalink: https://x.com/baer_job15962/status/2101786899291488263
+- Blockers: none for posting; account has 2 followers.
+
+LinkedIn (Job Baer)
+- Comments succeeded: 6
+- Comments failed: 0
+- Search/status URL: https://www.linkedin.com/search/results/content/?keywords=quantum%20physics
+- Successful new comments included four prior diabetes/perovskite comments plus two new quantum-physics comments (Joe Brown and Prashant Gautam threads). LinkedIn exposed the search URL rather than stable comment permalinks in this session.
+- Standalone: NO
+- Failed attempts: 2
+- Blocker: LinkedIn composer returned “We encountered a problem sharing your post. Please try again.” on both attempts at https://www.linkedin.com/feed/.
+
+Reddit: skipped as instructed. No blog, GitHub Pages, or Cloudflare analytics changes made.

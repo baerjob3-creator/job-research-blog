@@ -1,0 +1,24 @@
+Ad batch: 2026-09-22 AM
+Account: X @baer_job15962; LinkedIn Job Baer
+
+X replies posted: 7
+Topics/URLs:
+1. Ammonia/Haber — https://bars-bigger-returned-musicians.trycloudflare.com/posts/ammonia-air-seawater-uv-lamp.html
+2. Perovskite/solar — https://bars-bigger-returned-musicians.trycloudflare.com/posts/zirconia-solar-tandem-34-percent.html
+3. Superconductor cavity — https://bars-bigger-returned-musicians.trycloudflare.com/posts/vacuumtronics-superconductor-cavity.html
+4. BCI — https://bars-bigger-returned-musicians.trycloudflare.com/posts/bci-speech-gesture.html
+5. JWST/space — https://bars-bigger-returned-musicians.trycloudflare.com/
+6. CERN/physics — https://bars-bigger-returned-musicians.trycloudflare.com/
+7. Parkinson's/health — https://bars-bigger-returned-musicians.trycloudflare.com/
+X permalinks: not captured in the session UI; the seven replies above were confirmed as posted.
+
+LinkedIn comments posted: 6
+1. Superconductor-related post — https://bars-bigger-returned-musicians.trycloudflare.com/posts/vacuumtronics-superconductor-cavity.html
+2. Perovskite — https://bars-bigger-returned-musicians.trycloudflare.com/posts/zirconia-solar-tandem-34-percent.html
+3. BCI — https://bars-bigger-returned-musicians.trycloudflare.com/posts/bci-speech-gesture.html
+4. JWST — https://bars-bigger-returned-musicians.trycloudflare.com/
+5. HIV — https://bars-bigger-returned-musicians.trycloudflare.com/
+6. Artificial leaf — https://bars-bigger-returned-musicians.trycloudflare.com/
+LinkedIn permalinks: not exposed by the search-results UI during posting.
+
+Blockers: No login, rate-limit, or captcha encountered. Social search/result pages did not expose stable direct permalinks for the reply/comment items, so only counts and target post topics are recorded.
