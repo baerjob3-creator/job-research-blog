@@ -4,7 +4,7 @@ date: 2026-09-23
 excerpt: "CMS companion to ATLAS 4.7σ Higgs-ZZ entanglement — polarization density matrix, all three combinations, >6σ vs purely longitudinal AND purely transverse; Bell-type conditions under assumptions. Not a rewrite of post-10."
 tags: [CMS, Higgs, Z boson, entanglement, qutrit, H→ZZ, CERN, ATLAS companion, Bell, EFT, 2026]
 author: Research
-featured: true
+featured: false
 ---
 
 # CMS Ruled Out Purely Longitudinal Higgs→ZZ at More Than 6σ — Then Called the Z Pair Entangled
