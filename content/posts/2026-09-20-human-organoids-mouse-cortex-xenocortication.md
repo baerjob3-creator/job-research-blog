@@ -4,7 +4,7 @@ date: 2026-09-20
 excerpt: "Stanford’s Pașca lab used xenocortication to fill most of a mouse cortex with human organoids — grafts hit 91.9% of cortical volume and sent axons toward the spinal cord. Research platform only; not a thinking mouse."
 tags: [organoids, neuroscience, Stanford, Nature, xenocortication, Pasca, brain-research, science, 2026]
 author: Research
-featured: true
+featured: false
 ---
 
 # They Cleared Most of a Mouse Cortex — Human Organoids Filled 91.9% of It and Reached the Spinal Cord
